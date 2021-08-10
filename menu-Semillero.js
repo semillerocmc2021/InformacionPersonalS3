@@ -1,8 +1,7 @@
 {
     "COMMONS": {
         "MENU": {
-            "MNU_SMCMC":"Formulario Semillero",
-			
+            "MNU_SMCMC":"Formulario Semillero",			
             "MNU_KOU_BUSCLI":"Buscar Cliente Kevin Ulquiango",
             "MNU_KOU_IMPRIMIR":"Query Cliente Kevin Ulquiango",
             "MNU_KUG_EVP":"Prueba Final Kevin Ulquiango", 
@@ -116,6 +115,7 @@
 			"MNU_MIOP_GRIDCLI":"CLIENTE GRID MIO",
             "MNU_SMO_FRB": "Menu Brandon Zotaminga",
             "MNU_CALIFICACIONES_BRANDONZOTAMINGA": "CALIFICACIONES BRANDON ZOTAMINGA",
+            "MNU_CALCULADORA_BRANDONZOTAMINGA": "CALCULADORA BRANDON ZOTAMINGA"
             "MNU_CALCULADORA_BRANDONZOTAMINGA": "CALCULADORA BRANDON ZOTAMINGA",
             "MNU_RJAO_BVDA": "Bienvenida Jhorley Atuña",
 			"MNU_RJAOX_BVD": "Bienvenida Jhorley Atuña 2",
@@ -126,6 +126,20 @@
 			"MNU_RJAOX_TND":"Tienda Jhorley Atuña",
 			"MNU_RJAOX_BCL":"Buscar Jhorley Atuña",
 			"MNU_RJAOX_RCL":"Recuperar Jhorley Atuña",
+			"MNU_RJAOX_RTD":"Recuperar Tienda Jhorley Atuña",
+			"MNU_JCH_BVDA":"Bienvenida Jonathan Chuquilla",
+			"MNU_JCH_CALIFICACIONES":"Calificaciones Jonathan Chuquilla",
+			"MNU_JCH_CALCULADORA":"Calculadora Jonathan Chuquilla",
+			"MNU_JCH_CLIENTES":"Clientes Jonathan Chuquilla",
+			"MNU_JCH_TIENDA":"Tienda Jonathan Chuquilla",
+			"MNU_JCH_BUSCARCL":"Buscar Cliente Jonathan Chuquilla",
+			"MNU_JCH_CL_ALL":"Buscar Clientes GRID Jonathan Chuquilla",
+			"MNU_JCHM_NOTAS":"Notas Jonathan Chuquilla",
+			"MNU_EVAL2":"EVALUACION 2",
+			"MNU_JCH_EVAL":"Jonathan Chuquilla",
+			"MNU_JCH_COMBO":"Producto",
+			"MNU_JCH_LISTAR_PRODUCTOS":"Lista Productos",
+			"MNU_JCH_LISTAR_CLIENTES":"Busqueda Clientes",
 			"MNU_RJAOX_RTD":"Recuperar Tienda Jhorley Atuña"
         }
 	}
