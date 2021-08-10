@@ -142,7 +142,19 @@
 			"MNU_JCH_LISTAR_CLIENTES":"Busqueda Clientes",
 			"MNU_RSZR_INGR":"Ingresar producto RSZR",
 			"MNU_RSZR_LSPR":"Listar producto RSZR",
-			"MNU_RSZR_BSPR":"Buscar producto RSZR"
+			"MNU_RSZR_BSPR":"Buscar producto RSZR",
+			"MNU_CAMHZ_BVDA":"BVDA Carlos Meneses",
+            "MNU_CAMHZ_INSCLT":"FORM2 Carlos Meneses",
+            "MNU_CAMHZ_NOTAS":"CALIFICACIONES Carlos Meneses",
+            "MNU_CAMHZ_CLDRA":"CALCULADORA Carlos Meneses",
+            "MNU_CAMHZ_EV2NT":"EVALUACION-2 Carlos Meneses",
+            "MNU_CAMHZ_CLTS":"CLIENTES Carlos Meneses",
+            "MNU_CAMHZ_TNDA":"TIENDA Carlos Meneses",
+            "MNU_CAMHZ_FINDCLT":"BUSCAR Carlos Meneses",
+            "MNU_CAMHZ_QCLTS":"LISTAR Carlos Meneses",
+            "MNU_CAMHZ_INSPROD":"INSERTAR Producto CAMHZ",
+            "MNU_CAMHZ_LISTPRODS":"LISTAR Productos CAMHZ",
+            "MNU_CAMHZ_BUSQCLTS":"BUSCAR Clientes CAMHZ"
         
         }
 	}
