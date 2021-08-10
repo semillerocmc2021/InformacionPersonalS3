@@ -42,7 +42,7 @@
 			"FORM_PROD": "Formulario Producto",
 			"FORM_LPROD": "Listar Productos",
 			"FORM_LCLI": "Busqueda Clientes",
-			"MNU_JSH_BNVD":"Bienvenido Jose Santiesteban" 
+			"MNU_JSH_BNVD":"Bienvenido Jose Santiesteban", 
 			"JSH_ListadoClientes":"Formulario listar clientes",
 			"Jose_Santiesteban_Designer":"Jose Santiesteban",
 			"JSH_MNU_SERVER":"Prueba evento servidor JSH",
