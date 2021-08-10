@@ -49,8 +49,12 @@
 			"MNU_JIBY_FORMPRODUCTO":"FORMULARIO PRODUCTO Jonathan Borbor",
 			"MNU_JIBY_LISTARPRODUCTOS":"LISTAR PRODUCTO Jonathan Borbor",
 			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor"
+<<<<<<< HEAD
 >>>>>>> a532394b4f55ba168274c28d4c9970de419dabcc
 >>>>>>> ba868ec67ff03a3a8c6ec7944f1ce25de13d8f73
+=======
+			
+>>>>>>> 118dddff6a8145ac3d8e20862f556736d9553890
         }
     }
 }
