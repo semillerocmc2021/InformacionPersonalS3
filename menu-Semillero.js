@@ -1,8 +1,7 @@
 {
     "COMMONS": {
         "MENU": {
-            "MNU_SMCMC":"Formulario Semillero",
-			
+            "MNU_SMCMC":"Formulario Semillero",			
             "MNU_KOU_BUSCLI":"Buscar Cliente Kevin Ulquiango",
             "MNU_KOU_IMPRIMIR":"Query Cliente Kevin Ulquiango",
             "MNU_KUG_EVP":"Prueba Final Kevin Ulquiango", 
@@ -116,7 +115,7 @@
 			"MNU_MIOP_GRIDCLI":"CLIENTE GRID MIO",
             "MNU_SMO_FRB": "Menu Brandon Zotaminga",
             "MNU_CALIFICACIONES_BRANDONZOTAMINGA": "CALIFICACIONES BRANDON ZOTAMINGA",
-            "MNU_CALCULADORA_BRANDONZOTAMINGA": "CALCULADORA BRANDON ZOTAMINGA",
+            "MNU_CALCULADORA_BRANDONZOTAMINGA": "CALCULADORA BRANDON ZOTAMINGA"
             "MNU_RJAO_BVDA": "Bienvenida Jhorley Atuña",
 			"MNU_RJAOX_BVD": "Bienvenida Jhorley Atuña 2",
 			"MNU_RJAOX_CLI": "Cliente Jhorley Atuña",
@@ -140,6 +139,7 @@
 			"MNU_JCH_COMBO":"Producto",
 			"MNU_JCH_LISTAR_PRODUCTOS":"Lista Productos",
 			"MNU_JCH_LISTAR_CLIENTES":"Busqueda Clientes"
+			"MNU_RJAOX_RTD":"Recuperar Tienda Jhorley Atuña"
         }
 	}
 }	
