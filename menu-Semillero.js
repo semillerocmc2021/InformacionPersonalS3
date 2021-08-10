@@ -17,6 +17,7 @@
             "MNU_KOUG_PRUBU":"Lista Productos",
             "MNU_EVAL_TONY":"Evaluaci\u00F3n - Tony",
 <<<<<<< HEAD
+<<<<<<< HEAD
 			"MNU_RSZR_BVDA":"Menu Roddy Zamora"
 =======
 			"MNU_RSZR":"Menu Roddy Zamora",
@@ -34,6 +35,22 @@
 			"FORM_LPROD": "Listar Productos",
 			"FORM_LCLI": "Busqueda Clientes"
 >>>>>>> bb97126d8b2c528ae61605a80198fc75583e9361
+=======
+			"MNU_JIBY_BVDA":"Bienvenido Jonathan Borbor",
+			"MNU_JIBY_CALIFICACIONES":"CALIFICACIONES Jonathan Borbor",
+			"MNU_JIBY_CALCULADORA":"CALCULADORA Jonathan Borbor",
+			"MNU_JIBY_EVANOTAS":"EVAL NOTAS Jonathan Borbor",
+			"MNU_JIBY_EVABLITIENDA":"EVAL BLIS TIENDA Jonathan Borbor",
+			"MNU_JIBY_CLIENTEFRM":"BLIS INGRESO CLIENTE Jonathan Borbor",
+			"MNU_JIBY_CONSUL_CLIENTE":"BLIS CONSULT CLIENTE Jonathan Borbor",
+			"MNU_JIBY_LISTAR_CLIENTES":"GRID LISTAR CLIENTES Jonathan Borbor",
+			"MNU_JIBY_EVA_LISTAR_TIENDAS":"GRID LISTAR TIENDAS Jonathan Borbor",
+			"JONATHAN_BORBOR":"JONATHAN BORBOR",
+			"MNU_JIBY_FORMPRODUCTO":"FORMULARIO PRODUCTO Jonathan Borbor",
+			"MNU_JIBY_LISTARPRODUCTOS":"LISTAR PRODUCTO Jonathan Borbor",
+			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor"
+>>>>>>> a532394b4f55ba168274c28d4c9970de419dabcc
+>>>>>>> ba868ec67ff03a3a8c6ec7944f1ce25de13d8f73
         }
     }
 }
