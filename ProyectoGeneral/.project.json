@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "FCTRC",
+	"modules": [
+		{
+			"moduleId": "FCTRC",
+			"moduleName": "FACTURACION",
+			"subModules": [
+				{
+					"subModuleId": "FCTRS",
+					"subModuleName": "FACTURAS"
+				}
+			]
+		}
+	],
+	"projectName": "ProyectoGeneral",
+	"subModuleId": "FCTRS"
+}
