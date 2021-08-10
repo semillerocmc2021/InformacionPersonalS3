@@ -116,6 +116,7 @@
             "MNU_SMO_FRB": "Menu Brandon Zotaminga",
             "MNU_CALIFICACIONES_BRANDONZOTAMINGA": "CALIFICACIONES BRANDON ZOTAMINGA",
             "MNU_CALCULADORA_BRANDONZOTAMINGA": "CALCULADORA BRANDON ZOTAMINGA"
+            "MNU_CALCULADORA_BRANDONZOTAMINGA": "CALCULADORA BRANDON ZOTAMINGA",
             "MNU_RJAO_BVDA": "Bienvenida Jhorley Atuña",
 			"MNU_RJAOX_BVD": "Bienvenida Jhorley Atuña 2",
 			"MNU_RJAOX_CLI": "Cliente Jhorley Atuña",
