@@ -18,7 +18,6 @@
             "MNU_EVAL_TONY":"Evaluaci\u00F3n - Tony",
 			"MNU_RSZR_BVDA":"Menu Roddy Zamora",
 			"MNU_RSZR":"Menu Roddy Zamora",
-			"MNU_SMCMC": "Semillero forms",
 			"MNU_CLAUDIA_CAICEDO": "Semillero Claudia Caicedo",
 			"MNU_CSC_TIENDA": "Store CSC",
 			"MNU_CSC_CONSULTAC": "Consulta cliente csc",
@@ -43,7 +42,7 @@
 			"FORM_PROD": "Formulario Producto",
 			"FORM_LPROD": "Listar Productos",
 			"FORM_LCLI": "Busqueda Clientes",
-			"MNU_JSH_BNVD":"Bienvenido Jose Santiesteban" ,
+			"MNU_JSH_BNVD":"Bienvenido Jose Santiesteban" 
 			"JSH_ListadoClientes":"Formulario listar clientes",
 			"Jose_Santiesteban_Designer":"Jose Santiesteban",
 			"JSH_MNU_SERVER":"Prueba evento servidor JSH",
@@ -85,6 +84,7 @@
 			"Calificaciones Jose Santiesteban":"Calificaciones Jose Santiesteban",
 			"Calculadora Jose Santiesteban":"Calculadora Jose Santiesteban",
 			"JSH_BusquedaClientes":"Buscar clientes Jose Santiesteban",
+			"MNU_EMO_CLFCC":"Calificaciones Erik Montesdeoca",	
 			"MNU_EMO_CLFCC":"Calificaciones Erik Montesdeoca",
 			"MNU_JIBY_BVDA":"Bienvenido Jonathan Borbor",
 			"MNU_JIBY_CALIFICACIONES":"CALIFICACIONES Jonathan Borbor",
@@ -98,6 +98,7 @@
 			"JONATHAN_BORBOR":"JONATHAN BORBOR",
 			"MNU_JIBY_FORMPRODUCTO":"FORMULARIO PRODUCTO Jonathan Borbor",
 			"MNU_JIBY_LISTARPRODUCTOS":"LISTAR PRODUCTO Jonathan Borbor",
+			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor"
 			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor",
 			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor",			
 			"MNU_MIOP_BVDA":"Welcome Marcos Ortiz",
@@ -113,7 +114,6 @@
 			"MNU_MIOP_FACT2":"FACTURA MIOP",
 			"MNU_MIOP_GRIDF":"FACTURA GRID MIOP",
 			"MNU_MIOP_GRIDCLI":"CLIENTE GRID MIO"
-
         }
 	}
 }	
