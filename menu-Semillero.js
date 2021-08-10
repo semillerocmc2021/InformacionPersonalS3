@@ -34,7 +34,7 @@
 			"ERIK_MONTESDEOCA":"Erik Montesdeoca - Evaluacion Final",
 			"FORM_PROD": "Formulario Producto",
 			"FORM_LPROD": "Listar Productos",
-			"FORM_LCLI": "Busqueda Clientes"
+			"FORM_LCLI": "Busqueda Clientes",
 
 			"MNU_JIBY_BVDA":"Bienvenido Jonathan Borbor",
 			"MNU_JIBY_CALIFICACIONES":"CALIFICACIONES Jonathan Borbor",
@@ -48,7 +48,21 @@
 			"JONATHAN_BORBOR":"JONATHAN BORBOR",
 			"MNU_JIBY_FORMPRODUCTO":"FORMULARIO PRODUCTO Jonathan Borbor",
 			"MNU_JIBY_LISTARPRODUCTOS":"LISTAR PRODUCTO Jonathan Borbor",
-			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor"
+			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor",
+			
+			"MNU_MIOP_BVDA":"Welcome Marcos Ortiz",
+			"MNU_MIOP_SALUDO": "Induccion Marcos Ortiz",
+			"MNU_MIOP_CALIFICA": "Calificaciones Marcos Ortiz",
+			"MNU_MIOP_CAL":"Calculadora Marcos Ortiz",
+			"MNU_MIOP_SALUDOMARCOS":"SalduoMarcos",
+			"MNU_MIOP_BLIMOP":"CREAR CLIENTE MIO",
+			"MNU_MIOP_BUSMIOPZ":"BUSCAR CLIENTE MIO",
+			"MNU_MIOP_EVALUACION2.0":"EVA2 MIOP",
+			"MNU_MIOP_EVALUACION3":"EVA3 MIOP",
+			"MNU_MIOP_LISTCLI":"LISTAR CLIENTES MIO",
+			"MNU_MIOP_FACT2":"FACTURA MIOP",
+			"MNU_MIOP_GRIDF":"FACTURA GRID MIOP",
+			"MNU_MIOP_GRIDCLI":"CLIENTE GRID MIO"
 
         }
     }
