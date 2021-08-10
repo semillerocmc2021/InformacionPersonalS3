@@ -140,7 +140,6 @@
 			"MNU_JCH_COMBO":"Producto",
 			"MNU_JCH_LISTAR_PRODUCTOS":"Lista Productos",
 			"MNU_JCH_LISTAR_CLIENTES":"Busqueda Clientes",
-			"MNU_RJAOX_RTD":"Recuperar Tienda Jhorley Atuña",
 			"MNU_RSZR_INGR":"Ingresar producto RSZR",
 			"MNU_RSZR_LSPR":"Listar producto RSZR",
 			"MNU_RSZR_BSPR":"Buscar producto RSZR"
