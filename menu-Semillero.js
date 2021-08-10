@@ -21,7 +21,6 @@
 			"MNU_RSZR":"Menu Roddy Zamora",
 =======
 <<<<<<< HEAD
-			"MNU_SMCMC": "Semillero forms",
 			"MNU_CLAUDIA_CAICEDO": "Semillero Claudia Caicedo",
 			"MNU_CSC_TIENDA": "Store CSC",
 			"MNU_CSC_CONSULTAC": "Consulta cliente csc",
