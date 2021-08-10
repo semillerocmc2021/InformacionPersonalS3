@@ -116,11 +116,7 @@
 			"MNU_MIOP_GRIDCLI":"CLIENTE GRID MIO",
             "MNU_SMO_FRB": "Menu Brandon Zotaminga",
             "MNU_CALIFICACIONES_BRANDONZOTAMINGA": "CALIFICACIONES BRANDON ZOTAMINGA",
-            "MNU_CALCULADORA_BRANDONZOTAMINGA": "CALCULADORA BRANDON ZOTAMINGA"
-<<<<<<< HEAD
-
->>>>>>> 177f2410094b089567304ee1f5ac2409f98ba547
-,
+            "MNU_CALCULADORA_BRANDONZOTAMINGA": "CALCULADORA BRANDON ZOTAMINGA",
             "MNU_RJAO_BVDA": "Bienvenida Jhorley Atuña",
 			"MNU_RJAOX_BVD": "Bienvenida Jhorley Atuña 2",
 			"MNU_RJAOX_CLI": "Cliente Jhorley Atuña",
@@ -131,8 +127,6 @@
 			"MNU_RJAOX_BCL":"Buscar Jhorley Atuña",
 			"MNU_RJAOX_RCL":"Recuperar Jhorley Atuña",
 			"MNU_RJAOX_RTD":"Recuperar Tienda Jhorley Atuña"
-=======
->>>>>>> b2f816b913790e6969e002d56a397a35b9f36b4c
         }
 	}
 }	
