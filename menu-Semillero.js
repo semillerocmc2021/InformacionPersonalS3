@@ -17,6 +17,20 @@
             "MNU_KOUG_PRUBU":"Lista Productos",
             "MNU_EVAL_TONY":"Evaluaci\u00F3n - Tony",
 			"MNU_RSZR":"Menu Roddy Zamora",
+			"MNU_RSZR":"Menu Roddy Zamora",
+			"MNU_EMO_BNVD":"Bienvenido Erik Montesdeoca",
+			"MNU_EMO_CLFCC":"Calificaciones Erik Montesdeoca",
+			"MNU_EMO_CLCLD":"Calculadora Erik Montesdeoca",
+			"MNU_EMO_EVAL2":"Evaluacion 2 - Erik Montesdeoca",
+			"MNU_EMO_EVAL3":"Evaluacion 3 - Erik Montesdeoca",
+			"MNU_EVAL2":"Evaluacion 2 - Erik Montesdeoca",
+			"MNU_EVAL3":"Evaluacion 3 - Erik Montesdeoca",
+			"MNU_SMCMC":"Semillero",
+			"MNU_EMO_CLTE":"Formulario cliente - Erik Montesdeoca",
+			"ERIK_MONTESDEOCA":"Erik Montesdeoca - Evaluacion Final",
+			"FORM_PROD": "Formulario Producto",
+			"FORM_LPROD": "Listar Productos",
+			"FORM_LCLI": "Busqueda Clientes",
 			"MNU_JSH_BNVD":"Bienvenido Jose Santiesteban" ,
 			"JSH_ListadoClientes":"Formulario listar clientes",
 			"Jose_Santiesteban_Designer":"Jose Santiesteban",
@@ -29,7 +43,7 @@
 			"Producto JSH":"Formulario producto Jose Santiesteban",
 			"Calificaciones Jose Santiesteban":"Calificaciones Jose Santiesteban",
 			"Calculadora Jose Santiesteban":"Calculadora Jose Santiesteban",
-			"JSH_BusquedaClientes":"Buscar clientes Jose Santiesteban"
-        }
-    }
+			"JSH_BusquedaClientes":"Buscar clientes Jose Santiesteban"			
+       } 
+ }
 }
