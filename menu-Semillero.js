@@ -16,8 +16,19 @@
             "MNU_KOUG_PRUCLS":"Consultar Cliente",
             "MNU_KOUG_PRUBU":"Lista Productos",
             "MNU_EVAL_TONY":"Evaluaci\u00F3n - Tony",
+<<<<<<< HEAD
 
 			"MNU_RSZR_BVDA":"Menu Roddy Zamora",
+=======
+<<<<<<< HEAD
+			"MNU_RSZR":"Menu Roddy Zamora",
+			"MNU_CLAUDIA_CAICEDO": "Semillero Claudia Caicedo"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			"MNU_RSZR_BVDA":"Menu Roddy Zamora"
+=======
+>>>>>>> e6cea32a412026e446f8e361a6210a73177f8fa6
 			"MNU_RSZR":"Menu Roddy Zamora",
 			"MNU_EMO_BNVD":"Bienvenido Erik Montesdeoca",
 			"MNU_EMO_CLFCC":"Calificaciones Erik Montesdeoca",
@@ -45,7 +56,17 @@
 			"MNU_JIBY_FORMPRODUCTO":"FORMULARIO PRODUCTO Jonathan Borbor",
 			"MNU_JIBY_LISTARPRODUCTOS":"LISTAR PRODUCTO Jonathan Borbor",
 			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor"
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+>>>>>>> a532394b4f55ba168274c28d4c9970de419dabcc
+>>>>>>> ba868ec67ff03a3a8c6ec7944f1ce25de13d8f73
+=======
+			
+>>>>>>> 118dddff6a8145ac3d8e20862f556736d9553890
+>>>>>>> 361e05569516fb1faa85e0e47e93f7a3b55cbb1d
+>>>>>>> e6cea32a412026e446f8e361a6210a73177f8fa6
         }
     }
 }
