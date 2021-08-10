@@ -16,30 +16,18 @@
             "MNU_KOUG_PRUCLS":"Consultar Cliente",
             "MNU_KOUG_PRUBU":"Lista Productos",
             "MNU_EVAL_TONY":"Evaluaci\u00F3n - Tony",
-<<<<<<< HEAD
 			"MNU_RSZR_BVDA":"Menu Roddy Zamora",
 			"MNU_RSZR":"Menu Roddy Zamora",
-=======
-<<<<<<< HEAD
 			"MNU_CLAUDIA_CAICEDO": "Semillero Claudia Caicedo",
 			"MNU_CSC_TIENDA": "Store CSC",
 			"MNU_CSC_CONSULTAC": "Consulta cliente csc",
 			"FCT_INGRESARPRODCSC": "Ingreso Productos",
 			"FCT_PRODUCTOSCS": "Productos CSC",
 			"FCT_CLIENTESSCS": "Clients Search",
-<<<<<<< HEAD
 			"MNU_RSZR":"Menu Roddy Zamora",
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-
 			"MNU_RSZR_BVDA":"Menu Roddy Zamora",
 			"MNU_RSZR":"Menu Roddy Zamora",
->>>>>>> 3cb0eb7fe2d25bd744f9d9c03d5f6ebc07e6ee86
 			"MNU_RSZR_BVDA":"Menu Roddy Zamora"
->>>>>>> 177f2410094b089567304ee1f5ac2409f98ba547
 			"MNU_RSZR":"Menu Roddy Zamora",
 			"MNU_EMO_BNVD":"Bienvenido Erik Montesdeoca",
 			"MNU_EMO_CLFCC":"Calificaciones Erik Montesdeoca",
@@ -54,8 +42,7 @@
 			"FORM_PROD": "Formulario Producto",
 			"FORM_LPROD": "Listar Productos",
 			"FORM_LCLI": "Busqueda Clientes",
-<<<<<<< HEAD
-			"MNU_JSH_BNVD":"Bienvenido Jose Santiesteban" ,
+			"MNU_JSH_BNVD":"Bienvenido Jose Santiesteban" 
 			"JSH_ListadoClientes":"Formulario listar clientes",
 			"Jose_Santiesteban_Designer":"Jose Santiesteban",
 			"JSH_MNU_SERVER":"Prueba evento servidor JSH",
@@ -98,9 +85,7 @@
 			"Calculadora Jose Santiesteban":"Calculadora Jose Santiesteban",
 			"JSH_BusquedaClientes":"Buscar clientes Jose Santiesteban",
 			"MNU_EMO_CLFCC":"Calificaciones Erik Montesdeoca",	
-=======
-
->>>>>>> 177f2410094b089567304ee1f5ac2409f98ba547
+			"MNU_EMO_CLFCC":"Calificaciones Erik Montesdeoca",
 			"MNU_JIBY_BVDA":"Bienvenido Jonathan Borbor",
 			"MNU_JIBY_CALIFICACIONES":"CALIFICACIONES Jonathan Borbor",
 			"MNU_JIBY_CALCULADORA":"CALCULADORA Jonathan Borbor",
@@ -113,11 +98,9 @@
 			"JONATHAN_BORBOR":"JONATHAN BORBOR",
 			"MNU_JIBY_FORMPRODUCTO":"FORMULARIO PRODUCTO Jonathan Borbor",
 			"MNU_JIBY_LISTARPRODUCTOS":"LISTAR PRODUCTO Jonathan Borbor",
-<<<<<<< HEAD
 			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor"
-=======
 			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor",
-			
+			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor",			
 			"MNU_MIOP_BVDA":"Welcome Marcos Ortiz",
 			"MNU_MIOP_SALUDO": "Induccion Marcos Ortiz",
 			"MNU_MIOP_CALIFICA": "Calificaciones Marcos Ortiz",
@@ -131,6 +114,7 @@
 			"MNU_MIOP_FACT2":"FACTURA MIOP",
 			"MNU_MIOP_GRIDF":"FACTURA GRID MIOP",
 			"MNU_MIOP_GRIDCLI":"CLIENTE GRID MIO"
+<<<<<<< HEAD
 
 >>>>>>> 177f2410094b089567304ee1f5ac2409f98ba547
 ,
@@ -144,4 +128,8 @@
 			"MNU_RJAOX_BCL":"Buscar Jhorley Atuña",
 			"MNU_RJAOX_RCL":"Recuperar Jhorley Atuña",
 			"MNU_RJAOX_RTD":"Recuperar Tienda Jhorley Atuña"
+=======
+>>>>>>> b2f816b913790e6969e002d56a397a35b9f36b4c
         }
+	}
+}	
