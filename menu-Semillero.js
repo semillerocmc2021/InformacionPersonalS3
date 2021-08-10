@@ -16,7 +16,8 @@
             "MNU_KOUG_PRUCLS":"Consultar Cliente",
             "MNU_KOUG_PRUBU":"Lista Productos",
             "MNU_EVAL_TONY":"Evaluaci\u00F3n - Tony",
-			"MNU_RSZR":"Menu Roddy Zamora"
+			"MNU_RSZR":"Menu Roddy Zamora",
+			"MNU_CLAUDIA_CAICEDO": "Semillero Claudia Caicedo"
         }
     }
 }
