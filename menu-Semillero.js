@@ -126,7 +126,20 @@
 			"MNU_RJAOX_TND":"Tienda Jhorley Atuña",
 			"MNU_RJAOX_BCL":"Buscar Jhorley Atuña",
 			"MNU_RJAOX_RCL":"Recuperar Jhorley Atuña",
-			"MNU_RJAOX_RTD":"Recuperar Tienda Jhorley Atuña"
+			"MNU_RJAOX_RTD":"Recuperar Tienda Jhorley Atuña",
+			"MNU_JCH_BVDA":"Bienvenida Jonathan Chuquilla",
+			"MNU_JCH_CALIFICACIONES":"Calificaciones Jonathan Chuquilla",
+			"MNU_JCH_CALCULADORA":"Calculadora Jonathan Chuquilla",
+			"MNU_JCH_CLIENTES":"Clientes Jonathan Chuquilla",
+			"MNU_JCH_TIENDA":"Tienda Jonathan Chuquilla",
+			"MNU_JCH_BUSCARCL":"Buscar Cliente Jonathan Chuquilla",
+			"MNU_JCH_CL_ALL":"Buscar Clientes GRID Jonathan Chuquilla",
+			"MNU_JCHM_NOTAS":"Notas Jonathan Chuquilla",
+			"MNU_EVAL2":"EVALUACION 2",
+			"MNU_JCH_EVAL":"Jonathan Chuquilla",
+			"MNU_JCH_COMBO":"Producto",
+			"MNU_JCH_LISTAR_PRODUCTOS":"Lista Productos",
+			"MNU_JCH_LISTAR_CLIENTES":"Busqueda Clientes"
         }
 	}
 }	
