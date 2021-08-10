@@ -34,7 +34,6 @@
 
 			"MNU_RSZR_BVDA":"Menu Roddy Zamora",
 			"MNU_RSZR":"Menu Roddy Zamora",
-			"MNU_CLAUDIA_CAICEDO": "Semillero Claudia Caicedo"
 >>>>>>> 3cb0eb7fe2d25bd744f9d9c03d5f6ebc07e6ee86
 			"MNU_RSZR_BVDA":"Menu Roddy Zamora"
 			"MNU_RSZR":"Menu Roddy Zamora",
