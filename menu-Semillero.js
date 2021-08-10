@@ -16,11 +16,26 @@
             "MNU_KOUG_PRUCLS":"Consultar Cliente",
             "MNU_KOUG_PRUBU":"Lista Productos",
             "MNU_EVAL_TONY":"Evaluaci\u00F3n - Tony",
+<<<<<<< HEAD
+			"MNU_SMCMC": "Semillero forms",
+			"MNU_CLAUDIA_CAICEDO": "Semillero Claudia Caicedo",
+			"MNU_CSC_TIENDA": "Store CSC",
+			"MNU_CSC_CONSULTAC": "Consulta cliente csc",
+			"FCT_INGRESARPRODCSC": "Ingreso Productos",
+			"FCT_PRODUCTOSCS": "Productos CSC",
+			"FCT_CLIENTESSCS": "Clients Search",
+<<<<<<< HEAD
+			"MNU_RSZR":"Menu Roddy Zamora",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 
 
 			"MNU_RSZR_BVDA":"Menu Roddy Zamora",
 			"MNU_RSZR":"Menu Roddy Zamora",
 			"MNU_CLAUDIA_CAICEDO": "Semillero Claudia Caicedo"
+>>>>>>> 3cb0eb7fe2d25bd744f9d9c03d5f6ebc07e6ee86
 			"MNU_RSZR_BVDA":"Menu Roddy Zamora"
 			"MNU_RSZR":"Menu Roddy Zamora",
 			"MNU_EMO_BNVD":"Bienvenido Erik Montesdeoca",
