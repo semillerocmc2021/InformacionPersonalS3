@@ -26,7 +26,7 @@
 			"MNU_RSZR":"Menu Roddy Zamora",
 			"MNU_RSZR_BVDA":"Menu Roddy Zamora",
 			"MNU_RSZR":"Menu Roddy Zamora",
-			"MNU_RSZR_BVDA":"Menu Roddy Zamora"
+			"MNU_RSZR_BVDA":"Menu Roddy Zamora",
 			"MNU_RSZR":"Menu Roddy Zamora",
 			"MNU_EMO_BNVD":"Bienvenido Erik Montesdeoca",
 			"MNU_EMO_CLFCC":"Calificaciones Erik Montesdeoca",
@@ -115,7 +115,7 @@
 			"MNU_MIOP_GRIDCLI":"CLIENTE GRID MIO",
             "MNU_SMO_FRB": "Menu Brandon Zotaminga",
             "MNU_CALIFICACIONES_BRANDONZOTAMINGA": "CALIFICACIONES BRANDON ZOTAMINGA",
-            "MNU_CALCULADORA_BRANDONZOTAMINGA": "CALCULADORA BRANDON ZOTAMINGA"
+            "MNU_CALCULADORA_BRANDONZOTAMINGA": "CALCULADORA BRANDON ZOTAMINGA",
             "MNU_CALCULADORA_BRANDONZOTAMINGA": "CALCULADORA BRANDON ZOTAMINGA",
             "MNU_RJAO_BVDA": "Bienvenida Jhorley Atuña",
 			"MNU_RJAOX_BVD": "Bienvenida Jhorley Atuña 2",
@@ -154,7 +154,21 @@
             "MNU_CAMHZ_QCLTS":"LISTAR Carlos Meneses",
             "MNU_CAMHZ_INSPROD":"INSERTAR Producto CAMHZ",
             "MNU_CAMHZ_LISTPRODS":"LISTAR Productos CAMHZ",
-            "MNU_CAMHZ_BUSQCLTS":"BUSCAR Clientes CAMHZ"
+            "MNU_CAMHZ_BUSQCLTS":"BUSCAR Clientes CAMHZ",
+			"MNU_JDSM_JDSM": "Bienvenida",
+			"MNU_CALIF_JS": "Calificaciones Juan Sanchez",
+			"MNU_CALCU_JS": "Calculadora Juan Sanchez",
+			"MNU_CALCU_JS": "Calculadora Juan Sanchez",
+			"MNU_JDSM_BLI": "Registrar cliente",
+			"MNU_EVAL2_JDSM": "Evaluacion 2",
+			"MNU_EVA2_SUB_JDSM": "NotasForm JDSM",
+			"MNU_EVA3_SUB_JDSM": "Tienda JDSM",
+			"MNU_LIS_JDSM": "Listar cliente JDSM",
+			"MNU_LISC_JDSM": "Listar clientes JDSM",
+			"MNU_CREAR_PROD_JDSM": "Crear Producto JDSM",
+			"MNU_JUAN_SANCHEZ": "Evaluacion Final",
+			"MNU_LISTAR_PROD_JDSM": "Listar Producto JDSM",
+			"MNU_LISTAR_CLI_JDSM": "Listar Cliente JDSM"
         
         }
 	}
