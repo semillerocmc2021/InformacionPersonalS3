@@ -1,4 +1,3 @@
 {
-	"nombre":"Erik",
 	"apellido":"Montesdeoca"
 }
