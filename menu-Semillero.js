@@ -168,7 +168,19 @@
 			"MNU_CREAR_PROD_JDSM": "Crear Producto JDSM",
 			"MNU_JUAN_SANCHEZ": "Evaluacion Final",
 			"MNU_LISTAR_PROD_JDSM": "Listar Producto JDSM",
-			"MNU_LISTAR_CLI_JDSM": "Listar Cliente JDSM"
+			"MNU_LISTAR_CLI_JDSM": "Listar Cliente JDSM",
+			"MNU_EVM_CALIF":"Calificaciones Esteban Vallejo",
+			"MNU_EVM_CALC":"Calculadora Esteban Vallejo",
+			"MNU_EVAL2":"Evaluacion2",
+			"MNU_EGVM_EVAL2":"Evaluacion2 Esteban Vallejo",
+			"MNU_EGVM_BLI":"Crear Cliente EGVM",
+			"MNU_EGVM_EVA3":"Evaluacion 3 EGVM",
+			"MNU_EGVM_BUSC":"Bli Buscar Cliente",
+			"MNU_EGVM_GRID":"BLI Grid EGVM",
+			"MNU_ESTEBAN_VALLEJO":"Esteban Vallejo",
+			"MNU_EGVM_PRODUCTO":"Ingresar Producto",
+			"MNU_EGVM_GRPROD":"Lista Productos",
+			"MNU_EGVM_BUCLI":"Buscar Cliente"
         
         }
 	}
