@@ -139,7 +139,7 @@
 			"MNU_JCH_EVAL":"Jonathan Chuquilla",
 			"MNU_JCH_COMBO":"Producto",
 			"MNU_JCH_LISTAR_PRODUCTOS":"Lista Productos",
-			"MNU_JCH_LISTAR_CLIENTES":"Busqueda Clientes"
+			"MNU_JCH_LISTAR_CLIENTES":"Busqueda Clientes",
 			"MNU_RJAOX_RTD":"Recuperar Tienda Jhorley Atuña"
         }
 	}
