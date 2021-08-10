@@ -5,18 +5,17 @@
             "MNU_KOU_BUSCLI":"Buscar Cliente Kevin Ulquiango",
             "MNU_KOU_IMPRIMIR":"Query Cliente Kevin Ulquiango",
             "MNU_KUG_EVP":"Prueba Final Kevin Ulquiango", 
-            "MNU_KOU_CREATCLIE":"Crear Cliente1",
+            "MNU_KOU_CREATCLIE":"Crear Cliente Kevin Ulquiango",
             "MNU_KUG_EVAL":"Evaluacion2 Kevin Ulquiango",
             "MNU_SMCMC":"Formulario Semillero",
             "MNU_KUG_CALC":"Calculadora Kevin Ulquiango",
             "MNU_KUG_PROM":"Calificaciones Kevin Ulquiango",
             "MNU_KOU_BVDA":"Bienvenido Kevin Ulquiango",
-            "MNU_KOUG_PRU":"Formularios",
+            "MNU_KOUG_PRU":"Formularios Kevin Ulquiango",
             "MNU_KUG_EVP":"Evaluacion Kevin Ulquiango",
             "MNU_KOUG_PRUCLS":"Consultar Cliente",
             "MNU_KOUG_PRUBU":"Lista Productos",
-<<<<<<< HEAD
-			
+            "MNU_EVAL_TONY":"Evaluaci\u00F3n - Tony",
 			"MNU_JIBY_BVDA":"Bienvenido Jonathan Borbor",
 			"MNU_JIBY_CALIFICACIONES":"CALIFICACIONES Jonathan Borbor",
 			"MNU_JIBY_CALCULADORA":"CALCULADORA Jonathan Borbor",
@@ -30,9 +29,6 @@
 			"MNU_JIBY_FORMPRODUCTO":"FORMULARIO PRODUCTO Jonathan Borbor",
 			"MNU_JIBY_LISTARPRODUCTOS":"LISTAR PRODUCTO Jonathan Borbor",
 			"MNU_JIBY_BUSQUEDACLIENTE":"BUSQUEDA CLIENTE Jonathan Borbor"
-			
-=======
-            "MNU_EVAL_TONY":"Evaluaci\u00F3n - Tony"
 >>>>>>> a532394b4f55ba168274c28d4c9970de419dabcc
         }
     }
