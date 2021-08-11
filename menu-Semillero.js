@@ -180,7 +180,17 @@
 			"MNU_ESTEBAN_VALLEJO":"Esteban Vallejo",
 			"MNU_EGVM_PRODUCTO":"Ingresar Producto",
 			"MNU_EGVM_GRPROD":"Lista Productos",
-			"MNU_EGVM_BUCLI":"Buscar Cliente"
+			"MNU_EGVM_BUCLI":"Buscar Cliente",
+			"SRV_JCEO":"Bienvenida Servidor Julian Escobar",
+			"SRV_CAL_JCEO":"Evaluacion 2 Julian Camilo Escobar Ortiz",
+			"BLI_JCEO":"Bli Julian Camilo Escobar Ortiz",
+			"BLICON_JCEO":"Consulta Cliente Julian Camilo Escobar Ortiz",
+			"GRID_JCEO":"Grid Cliente Julian Camilo Escobar Ortiz",
+			"RECT_JCEO":"Recu Tienda Julian Camilo Escobar Ortiz",
+			"IP_JCEO":"Ingresar Producto Julian Escobar",
+			"SEMI_JCEO":"Formularios Julian Escobar",
+			"SP_JCEO":"Grid Productos Julian Escobar",
+			"CLI2_JCEO":"Lista Clientes Julian Escobar"
         
         }
 	}
