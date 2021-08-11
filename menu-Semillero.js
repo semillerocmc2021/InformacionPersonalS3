@@ -180,7 +180,8 @@
 			"MNU_ESTEBAN_VALLEJO":"Esteban Vallejo",
 			"MNU_EGVM_PRODUCTO":"Ingresar Producto",
 			"MNU_EGVM_GRPROD":"Lista Productos",
-			"MNU_EGVM_BUCLI":"Buscar Cliente"
+			"MNU_EGVM_BUCLI":"Buscar Cliente",
+			"MNU_EGVM_PR":"Prueba"
         
         }
 	}
