@@ -1,6 +1,5 @@
 {
 
-	"Nombre": "Julian",
 	"Apellido": "Escobar"
 
 
