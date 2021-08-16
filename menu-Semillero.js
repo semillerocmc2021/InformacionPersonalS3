@@ -190,7 +190,18 @@
 			"IP_JCEO":"Ingresar Producto Julian Escobar",
 			"SEMI_JCEO":"Formularios Julian Escobar",
 			"SP_JCEO":"Grid Productos Julian Escobar",
-			"CLI2_JCEO":"Lista Clientes Julian Escobar"
+			"CLI2_JCEO":"Lista Clientes Julian Escobar",
+			"MNU_MMMHN_SALUDOSERVER":"---------- SALUDO SERVER -----------------",
+			"MNU_MMMHN_CREARCLIENTEMIGUEL":"/////---------- CREAR CLIENTE -----------------/////",
+			"MNU_MMMHN_NOTAEVALUACION":"/////---------- NOTA MIGUEL GUTIERREZ EVALUACION2 -----------------/////",
+			"MNU_MMMHN_EVALUACION3MAGP":"/////---------- MIGUEL GUTIERREZ EVALUACION3 PROCEDURES -----------------/////",
+			"MNU_MMMHN_CONSULTARCLIENTEMAGP":"/////---------- MIGUEL GUTIERREZ CONSULTARCLIENTE -----------------/////",
+			"MNU_MMMHN_CLIENTESGRID":"/////---------- MIGUEL GUTIERREZ TRAER CLIENTES LISTA GRID -----------------/////",
+			"MNU_RPASO_CRUDCLIENTES":"/////---------- MIGUEL GUTIERREZ REPASO CRUD -----------------/////",
+			"MNU_MAGP_EVALUACIONFINAL":"/////---------- MIGUEL GUTIERREZ PRIETO EVALUACION FINAL -----------------/////",
+			"MNU_AGREGARPRODUCTO_MAGP":"/////---------- INGRESAR PRODUCTO MIGUEL -----------------/////",
+			"MNU_LISTARPRODUCTOS_MAGP":"/////---------- LISTAR PRODUCTOS MIGUEL -----------------/////",
+			"MNU_LISTARCLIENTES_MAGP":"/////---------- LISTAR CLIENTES MIGUEL -----------------/////"
         
         }
 	}
